@@ -15,8 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌊 Passionate swimmer and cyclist, avid hiker 🚴. Python enthusiast with a keen interest in artificial intelligence and cybersecurity 🔒. In love with the thrill of exploring algorithms and securing digital landscapes.
 
-📚 Avid reader of philosophy and science fiction, constantly seeking inspiration beyond the code. Join me on the journey of curiosity, where the blend of physical adventures and coding challenges defines the rhythm of my tech-driven world.
-
-🐍 Let's code, innovate, and unravel the mysteries of the digital realm together!
